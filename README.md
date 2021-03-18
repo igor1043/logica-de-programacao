@@ -22,7 +22,7 @@
 >   * [URI - Categoria Iniciante](#uri---categoria-iniciante)
 >   * [URI - Categoria Ad-hoc](#uri---categoria-ad-hoc)
 
-## Introdução
+## ## Sobre este repositório
 
 Esse repositório foi criado com o objetivo de centralizar todos as questões de programação que eu estou estudando - e programando - no momento. Atualmente, o objetivo do repositório também foi expandido para contemplar questões de Maratonas de Programação. Estou participando de um curso de Programação Competitiva e lidamos com questões contextualizadas constantemente. Elas também podem ser encontradas neste repositório. Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
 
