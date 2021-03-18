@@ -1,6 +1,5 @@
 # Estudos em Lógica de Programação
 
-![Lógica de Programação](https://github.com/davidallysson/davidallysson.github.io/blob/master/img/logica-de-programa%C3%A7%C3%A3o.png?raw=true)
 
 ## Sumário
 
