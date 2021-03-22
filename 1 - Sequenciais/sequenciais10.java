@@ -1,5 +1,9 @@
 //Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 import java.util.Scanner;
 
 public class sequenciais10 {
