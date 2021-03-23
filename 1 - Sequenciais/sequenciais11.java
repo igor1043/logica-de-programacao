@@ -2,7 +2,11 @@
 //  - o produto do dobro do primeiro com metade do segundo
 //  - a soma do triplo do primeiro com o terceiro
 //  - o terceiro elevado ao cubo
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 import java.util.Scanner;
 
 public class sequenciais11 {
