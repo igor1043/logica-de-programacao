@@ -4,6 +4,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 puts "Digite sua altura: "
 altura = gets.to_f
 pesoideal = (72.7 * altura) - 58
