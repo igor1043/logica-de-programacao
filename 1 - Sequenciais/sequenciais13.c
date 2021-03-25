@@ -7,6 +7,7 @@
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
 
+
 #include <stdio.h>
 #include <math.h>
 
