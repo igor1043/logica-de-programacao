@@ -3,6 +3,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 puts "Digite um número: "
 numero = gets.to_i
 puts "O número informado foi #{numero}"
