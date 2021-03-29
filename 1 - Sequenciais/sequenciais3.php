@@ -1,5 +1,9 @@
 <?php #Faça um programa que peça dois números e imprima a soma. ?>
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 <!DOCTYPE html>
 <html>
   <head>
