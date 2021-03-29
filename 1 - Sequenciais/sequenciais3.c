@@ -1,7 +1,11 @@
 //Faça um programa que peça dois números e imprima a soma.
 
 #include <stdio.h>
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 int main()
 {
   int n1, n2, soma;
