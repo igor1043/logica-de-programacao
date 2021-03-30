@@ -3,6 +3,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 puts "Digite 4 notas: "
 
 n1 = gets.to_f
