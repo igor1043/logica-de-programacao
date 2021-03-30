@@ -1,5 +1,9 @@
 <?php #Faça um programa que peça as 4 notas bimestrais e mostre a média. ?>
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 <!DOCTYPE html>
 <html>
   <head>
