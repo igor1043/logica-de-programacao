@@ -1,5 +1,9 @@
 //Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 import java.util.Scanner;
 
 public class sequenciais7 {
