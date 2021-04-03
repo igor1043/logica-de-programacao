@@ -4,6 +4,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 puts "Qual o valor da sua hora de trabalho?"
 valordahora = gets.to_f
 puts "Quantas horas você trabalha por dia?"
