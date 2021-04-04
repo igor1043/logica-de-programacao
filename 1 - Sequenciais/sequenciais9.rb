@@ -4,6 +4,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 puts "Digite uma temperatura, em Farenheit: "
 farenheit = gets.to_f
 celsius = (5 * (farenheit - 32)) / 9
