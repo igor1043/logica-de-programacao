@@ -3,6 +3,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 numero = gets.to_i
 if (numero == 10)
 	puts "O valor é igual a 10."
