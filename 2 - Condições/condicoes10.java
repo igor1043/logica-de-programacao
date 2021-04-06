@@ -1,4 +1,9 @@
 //Escreva um programa que leia dois números inteiros e informe se o maior é múltiplo do menor
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 
 import java.util.Scanner;
 
