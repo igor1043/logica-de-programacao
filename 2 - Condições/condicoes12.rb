@@ -3,6 +3,7 @@
 #Author:  Igor Vinicius Freitas de Souza
 #GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 puts "Digite o nome do primeiro jogador:"
 nome1 = gets.chomp
 puts "Digite o nome do segundo jogador:"
