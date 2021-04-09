@@ -3,6 +3,7 @@
 #Author:  Igor Vinicius Freitas de Souza
 #GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 n1 = gets.to_i
 n2 = gets.to_i
 n3 = gets.to_i
