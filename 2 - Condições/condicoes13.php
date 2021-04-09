@@ -1,7 +1,9 @@
 <?php
 
 #Escreva um programa que leia 4 números e mostre o maior.
-
+#Author:  Igor Vinicius Freitas de Souza
+#GitHub: https://github.com/igor1043
+# E-mail: igorviniciusfreitasouza@gmail.com
 ?>
 
 <!DOCTYPE html>
