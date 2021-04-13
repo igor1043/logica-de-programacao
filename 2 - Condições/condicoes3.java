@@ -4,6 +4,7 @@
 * GitHub: https://github.com/igor1043
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
+
 import java.util.Scanner;
 
 public class condicoes3 {
