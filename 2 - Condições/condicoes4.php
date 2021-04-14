@@ -1,7 +1,9 @@
 <?php
 
 #Escreva um programa que leia dois números e informe se eles são iguais.
-
+# Author:  Igor Vinicius Freitas de Souza
+# GitHub: https://github.com/igor1043
+# E-mail: igorviniciusfreitasouza@gmail.com
 ?>
 
 <!DOCTYPE html>
