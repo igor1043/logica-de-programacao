@@ -1,5 +1,4 @@
 #Escreva um programa que leia um número e mostre se ele é igual a 10.
-
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
