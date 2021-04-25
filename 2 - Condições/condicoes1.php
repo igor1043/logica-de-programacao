@@ -1,5 +1,4 @@
 <?php
-
 #Escreva um programa que leia um número e mostre se ele é igual a 10.
 
 #Author:  Igor Vinicius Freitas de Souza
