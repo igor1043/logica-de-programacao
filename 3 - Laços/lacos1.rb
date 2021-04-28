@@ -4,6 +4,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 numero = -1
 
 while (numero < 0 || numero > 10) do
