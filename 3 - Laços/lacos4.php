@@ -1,6 +1,7 @@
 <?php
 
 #Faça um programa que leia 5 números e informe a soma e a média dos números.
+
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
