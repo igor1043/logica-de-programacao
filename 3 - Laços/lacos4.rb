@@ -3,6 +3,7 @@
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 soma = 0
 for i in 1..5 do
   num = gets.to_i
