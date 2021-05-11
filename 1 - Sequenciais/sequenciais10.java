@@ -5,7 +5,6 @@
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
 
-
 import java.util.Scanner;
 
 public class sequenciais10 {
