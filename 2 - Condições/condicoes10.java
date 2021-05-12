@@ -6,7 +6,6 @@
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
 
-
 import java.util.Scanner;
 
 public class condicoes10 {
