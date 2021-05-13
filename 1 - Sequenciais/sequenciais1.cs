@@ -5,6 +5,7 @@
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
 
+
 using System;
 
 namespace Sequenciais
