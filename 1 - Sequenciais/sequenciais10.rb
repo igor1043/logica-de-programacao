@@ -3,6 +3,7 @@
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
 
+
 puts "Digite uma temperatura, em Celsius: "
 celsius = gets.to_f
 farenheit = 1.80 * celsius + 32
