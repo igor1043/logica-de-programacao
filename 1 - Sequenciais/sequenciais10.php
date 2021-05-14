@@ -3,7 +3,6 @@
 #Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
 #F = 1.80 * C + 32;
 
-
 /*
 * Author:  Igor Vinicius Freitas de Souza
 * GitHub: https://github.com/igor1043
