@@ -4,7 +4,6 @@
 * GitHub: https://github.com/igor1043
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
-
 #include <stdio.h>
 
 int main()
