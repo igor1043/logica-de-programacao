@@ -1,5 +1,6 @@
 # Escreva um programa que leia uma matriz N x M, e imprima a sua transposta.
 
+
 matriz = []
 transposta = []
 
