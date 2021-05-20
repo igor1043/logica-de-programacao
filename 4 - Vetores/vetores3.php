@@ -1,5 +1,6 @@
 <?php
 
+
 # Escreva um programa que leia uma matriz N x M, e imprima a sua transposta.
 
 $matriz = array(array(1, 2, 3), array(4, 5, 6));
