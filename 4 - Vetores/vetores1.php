@@ -6,6 +6,7 @@
 #o programa deve trocar o primeiro com o último elemento. Ao final o programa
 #deve mostrar os elementos do array, um elemento por linha.
 
+
 $array = array(8, 4, 12, 28, 26, 15, 30, 59, 47, 2, 5, 13, 65, 22, 19, 1, 3, 16, 7, 21, 33, 39, 42, 10, 27, 51, 17, 44, 31, 35);
 
 echo "Meu Array: <br> <br>";
