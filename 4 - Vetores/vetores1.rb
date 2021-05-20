@@ -4,6 +4,7 @@
 #o programa deve trocar o primeiro com o último elemento. Ao final o programa
 #deve mostrar os elementos do array, um elemento por linha.
 
+
 aux = 0
 puts "Digite 5 números: "
 numeros = 5.times.map do gets.to_i end
