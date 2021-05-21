@@ -4,6 +4,7 @@
 #GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
 
+
 puts "Escreva o nome do primeiro time: "
 nome1 = gets.chomp
 puts "Escreva o número de gols do primeiro time: "
