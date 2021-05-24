@@ -1,5 +1,4 @@
 <?php
-
 /*
 * Author:  Igor Vinicius Freitas de Souza
 * GitHub: https://github.com/igor1043
