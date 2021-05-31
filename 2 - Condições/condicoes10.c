@@ -6,7 +6,6 @@
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
 
-
 #include <stdio.h>
 
 int main()
