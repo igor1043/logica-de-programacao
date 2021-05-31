@@ -7,8 +7,6 @@
 # E-mail: igorviniciusfreitasouza@gmail.com
 
 ?>
-
-
 <!DOCTYPE html>
 <html>
   <head>
