@@ -4,6 +4,7 @@
 * GitHub: https://github.com/igor1043
 * E-mail: igorviniciusfreitasouza@gmail.com
 */
+
 public class sequenciais1 {
 
   public static void main(String[] args) {
